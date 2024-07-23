@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="#quick-start"><img src="https://img.shields.io/badge/package-CocoaPods-4BC51D.svg" alt="Package managers"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-EVVALicense-blue.svg" alt="EVVA License"></a>
+  <a><img src="https://img.shields.io/github/v/tag/evva-sfw/abrevva-sdk-ios-pod-specs?color=fce500" alt="Package managers"></a>
+  <a href="#quick-start"><img src="https://img.shields.io/badge/-CocoaPods-fce500?logo=CocoaPods" alt="Package managers"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-EVVA_License-yellow.svg?color=fce500&logo=data:image/svg+xml;base64,PCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vbi5pbyAtLT4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjY0MCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgNjQwIDEwMjQiPgo8ZyBpZD0iaWNvbW9vbi1pZ25vcmUiPgo8L2c+CjxwYXRoIGZpbGw9IiNmY2U1MDAiIGQ9Ik02MjIuNDIzIDUxMS40NDhsLTMzMS43NDYtNDY0LjU1MmgtMjg4LjE1N2wzMjkuODI1IDQ2NC41NTItMzI5LjgyNSA0NjYuNjY0aDI3NS42MTJ6Ij48L3BhdGg+Cjwvc3ZnPgo=" alt="EVVA License"></a>
 </p>
 
 The EVVA Abrevva iOS SDK is a collection of tools to work with electronical EVVA access components. It allows for scanning and connecting via BLE.
